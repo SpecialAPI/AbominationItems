@@ -1,0 +1,16 @@
+C:\Users\Andrey\source\repos\AbominationItems\bin\Debug\AbominationItems.dll
+C:\Users\Andrey\source\repos\AbominationItems\bin\Debug\AbominationItems.pdb
+C:\Users\Andrey\source\repos\AbominationItems\bin\Debug\Assembly-CSharp.Base.mm.dll
+C:\Users\Andrey\source\repos\AbominationItems\bin\Debug\Assembly-CSharp.dll
+C:\Users\Andrey\source\repos\AbominationItems\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\Andrey\source\repos\AbominationItems\bin\Debug\MonoMod.Utils.dll
+C:\Users\Andrey\source\repos\AbominationItems\bin\Debug\UnityEngine.CoreModule.Base.mm.dll
+C:\Users\Andrey\source\repos\AbominationItems\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Andrey\source\repos\AbominationItems\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Andrey\source\repos\AbominationItems\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Andrey\source\repos\AbominationItems\bin\Debug\PlayMaker.dll
+C:\Users\Andrey\source\repos\AbominationItems\bin\Debug\UnityEngine.dll
+C:\Users\Andrey\source\repos\AbominationItems\obj\Debug\AbominationItems.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\AbominationItems\obj\Debug\AbominationItems.csproj.CopyComplete
+C:\Users\Andrey\source\repos\AbominationItems\obj\Debug\AbominationItems.dll
+C:\Users\Andrey\source\repos\AbominationItems\obj\Debug\AbominationItems.pdb
